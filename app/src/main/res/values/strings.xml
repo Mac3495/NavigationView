@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationView</string>
+    <string name="texto">Este es un texto de prueba para el menu del NavigationView. se puede cambiar el color
+    del fondo de este texto si se selecciona otro item del menu :D</string>
+</resources>
