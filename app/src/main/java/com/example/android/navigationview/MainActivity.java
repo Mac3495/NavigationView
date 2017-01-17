@@ -29,6 +29,7 @@ import android.view.MenuItem;
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
+                //Para cada item se crea un if para igualar los Id
                 if(item.getItemId() == R.id.inicioItem){
                     textView.setText(item.getTitle());
                     imageView.setImageResource(R.drawable.ic_home);
